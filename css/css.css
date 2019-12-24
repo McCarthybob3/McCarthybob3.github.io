@@ -1,0 +1,9 @@
+body{
+	margin:0;
+	height:screen-height;
+	width: screen-width;
+
+	background-image: url("assets/christmas.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
